@@ -1,0 +1,24 @@
+{
+  "readlater": [
+    {
+      "newsUrl": "https://tech.hindustantimes.com/photos/nasa-asteroid-mission-psyche-spacecraft-almost-ready-for-launch-71649742261058.html",
+      "description": "NASA asteroid mission: The US space agency recently invited members of the media at JPL to see its Psyche Spacecraft, which is due to launch from Cape Canaveral in August. Psyche will be on a mission to orbit an asteroid.",
+      "id": 1
+    },
+    {
+      "newsUrl": "https://www.sciencealert.com/a-rare-planetary-alignment-is-about-to-happen-here-s-how-to-see-it",
+      "description": "Seeing the planets of the Solar System aligned in a neat line is one of many awe-inspiring stargazing experiences we can get – and this month you could have a chance to see it with your own eyes.",
+      "id": 2
+    },
+    {
+      "newsUrl": "https://www.cnbctv18.com/market/stocks/stock-market-news-live-updates-nifty50-bse-sensex-banknifty-tcs-q4-results-share-price-brent-crude-oil-price-bitcoin-gold-rate-earnings-season-peace-talks-13127692.htm",
+      "description": "Stock Market LIVE Updates: Indian equity benchmarks BSE Sensex and NSE Nifty50 extended losses after a gap-down start on Tuesday tracking weakness across global markets as investors started the holiday-shortened week in a risk-off mood. Losses across sectors …",
+      "id": 3
+    },
+    {
+      "newsUrl": "https://www.ndtv.com/india-news/india-us-talks-india-us-relations-india-us-2-plus-2-talks-anthony-blinken-superb-sena-leaders-shout-out-to-s-jaishankar-on-russian-oil-retort-2880549",
+      "description": "Foreign Minister S Jaishankar's sharp remarks in the US on India's oil purchase from Russia amounting to \"less than that of Europe in an afternoon\" drew praise from the opposition today.",
+      "id": 4
+    }
+  ]
+}
